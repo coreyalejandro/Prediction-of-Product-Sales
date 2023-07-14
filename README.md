@@ -4,7 +4,7 @@ This project involves a comprehensive exploratory data analysis (EDA) on the Big
 
 ## Key Visuals and Insights
 
-![Item_Outlet_Sales by Outlet_Type](images/Outlet_Type_Boxplot.png)
+![Item_Outlet_Sales by Outlet_Type](https://github.com/coreyalejandro/Prediction-of-Product-Sales/commit/7d96e93e523dc30147bfe1568cea3af6fb913bdf)
 
 The boxplot of 'Item_Outlet_Sales' by 'Outlet_Type' shows that 'Supermarket Type3' outlets tend to have higher sales, while 'Grocery Store' outlets tend to have lower sales.
 
