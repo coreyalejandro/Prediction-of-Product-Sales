@@ -4,10 +4,11 @@ This project involves a comprehensive exploratory data analysis (EDA) on the Big
 
 ## Key Visuals and Insights
 
-![Item_Outlet_Sales by Outlet_Type](https://github.com/coreyalejandro/Prediction-of-Product-Sales/commit/7d96e93e523dc30147bfe1568cea3af6fb913bdf)
+![image](https://github.com/coreyalejandro/Prediction-of-Product-Sales/assets/92589532/f3966f87-7c60-439a-b0cc-52a6261ddd0b)
 
 The boxplot of 'Item_Outlet_Sales' by 'Outlet_Type' shows that 'Supermarket Type3' outlets tend to have higher sales, while 'Grocery Store' outlets tend to have lower sales.
 
-![Item_Outlet_Sales by Item_MRP](images/Item_MRP_Scatterplot.png)
+
+![image](https://github.com/coreyalejandro/Prediction-of-Product-Sales/assets/92589532/72f2f5cd-3bc0-4c60-a49c-13aa5c014230)
 
 The scatterplot of 'Item_Outlet_Sales' by 'Item_MRP' shows a clear positive relationship between the maximum retail price (MRP) of an item and its sales. Items with a higher MRP tend to have higher sales.
